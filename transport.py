@@ -7,9 +7,6 @@ import openpyxl
 import itertools
 import datetime
 
-import tkinter as tk
-from tkinter import filedialog as fd
-
 
 import warnings
 warnings.simplefilter(action='ignore')
